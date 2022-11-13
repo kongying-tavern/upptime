@@ -5,6 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Genshin Map
     url: https://yuanshen.site
+  - name: Genshin Map v3
+    url: https://v3.yuanshen.site
+  - name: Genshin Map v3 Test
+    url: https://v3test.yuanshen.site
+  - name: Genshin Map Dadian
+    url: https://dadian.yuanshen.site
+  - name: Genshin Map Tiles
+    url: https://tiles.yuanshen.site
+  - name: Genshin Map Admin
+    url: http://admin.yuanshen.site
+  - name: Genshin Map Download
+    url: https://download.yuanshen.site
+  - name: Geenshin Map Assets
+    url: https://assets.yuanshen.site/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
