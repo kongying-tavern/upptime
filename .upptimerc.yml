@@ -7,8 +7,6 @@ sites:
     url: https://yuanshen.site
   - name: Genshin Map v3
     url: https://v3.yuanshen.site
-  - name: Genshin Map v3 Test
-    url: https://v3test.yuanshen.site
   - name: Genshin Map Dadian
     url: https://dadian.yuanshen.site
   - name: Genshin Map Tiles
