@@ -27,11 +27,15 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Kongying Tavern Upptime"
+  introMessage: "https://yuanshen.site"
   navbar:
     - title: Status
       href: /
+    - title: Sponsor
+      href: https://yuanshen.site/docs/support-us.html
+    - title: Feedback
+      href: https://support.qq.com/products/321980/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
