@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Genshin Map
     url: https://yuanshen.site
+    assignees: jiazengp
   - name: Genshin Map v3
     url: https://v3.yuanshen.site
   - name: Genshin Map Dadian
@@ -17,19 +18,26 @@ sites:
     url: https://download.yuanshen.site
   - name: Geenshin Map Assets
     url: https://assets.yuanshen.site/
-
+  - name: API (cloud.yuanshen.site/oauth/token)
+    method: POST
+    url: https://cloud.yuanshen.site/oauth/token
+    headers:
+      - 'Authorization': `Basic Y2xpZW50OnNlY3JldA==`
+    body: '{"scope": "all","grant_type": "client_credentials"}'
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://assets.yuanshen.site/favicon.ico
+  logoUrl: https://assets.yuanshen.site/photo.jpg
   name: Upptime
   introTitle: "Kongying Tavern Upptime"
   introMessage: "https://yuanshen.site"
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: Sponsor
       href: https://yuanshen.site/docs/support-us.html
     - title: Feedback
