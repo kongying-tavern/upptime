@@ -22,7 +22,7 @@ sites:
     method: POST
     url: https://cloud.yuanshen.site/oauth/token
     headers:
-      - 'Authorization': `Basic Y2xpZW50OnNlY3JldA==`
+      - Authorization: "Basic Y2xpZW50OnNlY3JldA=="
     body: '{"scope": "all","grant_type": "client_credentials"}'
       
 status-website:
