@@ -18,13 +18,6 @@ sites:
     url: https://download.yuanshen.site
   - name: Geenshin Map Assets
     url: https://assets.yuanshen.site/
-  - name: API (cloud.yuanshen.site/oauth/token)
-    method: POST
-    url: https://cloud.yuanshen.site/oauth/token
-    expectedStatusCodes:
-      - 200
-      - 400
-      - 403
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
