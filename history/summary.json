@@ -4,18 +4,19 @@
     "url": "https://yuanshen.site",
     "icon": "https://icons.duckduckgo.com/ip3/yuanshen.site.ico",
     "slug": "genshin-map",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 674,
     "timeDay": 922,
     "timeWeek": 700,
     "timeMonth": 674,
     "timeYear": 674,
     "dailyMinutesDown": {
+      "2022-12-09": 3,
       "2022-11-15": 18,
       "2022-11-13": 23
     }
@@ -25,10 +26,10 @@
     "url": "https://v3.yuanshen.site",
     "icon": "https://icons.duckduckgo.com/ip3/v3.yuanshen.site.ico",
     "slug": "genshin-map-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 680,
@@ -37,6 +38,7 @@
     "timeMonth": 680,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2022-12-09": 3,
       "2022-11-15": 18,
       "2022-11-13": 23
     }
@@ -46,18 +48,19 @@
     "url": "https://dadian.yuanshen.site",
     "icon": "https://icons.duckduckgo.com/ip3/dadian.yuanshen.site.ico",
     "slug": "genshin-map-dadian",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 687,
     "timeDay": 674,
     "timeWeek": 688,
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2022-12-09": 2,
       "2022-11-15": 17,
       "2022-11-13": 22
     }
@@ -67,18 +70,19 @@
     "url": "https://tiles.yuanshen.site",
     "icon": "https://icons.duckduckgo.com/ip3/tiles.yuanshen.site.ico",
     "slug": "genshin-map-tiles",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 665,
     "timeDay": 691,
     "timeWeek": 680,
     "timeMonth": 665,
     "timeYear": 665,
     "dailyMinutesDown": {
+      "2022-12-09": 2,
       "2022-11-15": 17,
       "2022-11-13": 22
     }
@@ -88,10 +92,10 @@
     "url": "http://admin.yuanshen.site",
     "icon": "https://icons.duckduckgo.com/ip3/admin.yuanshen.site.ico",
     "slug": "genshin-map-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 436,
@@ -100,6 +104,7 @@
     "timeMonth": 436,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2022-12-09": 1,
       "2022-11-15": 16,
       "2022-11-13": 21
     }
@@ -109,10 +114,10 @@
     "url": "https://download.yuanshen.site",
     "icon": "https://icons.duckduckgo.com/ip3/download.yuanshen.site.ico",
     "slug": "genshin-map-download",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 893,
@@ -121,6 +126,7 @@
     "timeMonth": 893,
     "timeYear": 893,
     "dailyMinutesDown": {
+      "2022-12-09": 1,
       "2022-11-15": 16,
       "2022-11-13": 21
     }
@@ -130,9 +136,9 @@
     "url": "https://assets.yuanshen.site/",
     "icon": "https://icons.duckduckgo.com/ip3/assets.yuanshen.site.ico",
     "slug": "geenshin-map-assets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -142,6 +148,7 @@
     "timeMonth": 650,
     "timeYear": 650,
     "dailyMinutesDown": {
+      "2022-12-09": 0,
       "2022-11-15": 15,
       "2022-11-13": 20
     }
