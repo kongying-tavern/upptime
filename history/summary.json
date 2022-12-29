@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 754,
-    "timeDay": 2988,
+    "timeDay": 696,
     "timeWeek": 1240,
     "timeMonth": 811,
     "timeYear": 754,
@@ -89,9 +89,9 @@
     "url": "http://admin.yuanshen.site",
     "icon": "https://icons.duckduckgo.com/ip3/admin.yuanshen.site.ico",
     "slug": "genshin-map-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -101,6 +101,7 @@
     "timeMonth": 452,
     "timeYear": 444,
     "dailyMinutesDown": {
+      "2022-12-29": 0,
       "2022-11-15": 16,
       "2022-11-13": 21
     }
